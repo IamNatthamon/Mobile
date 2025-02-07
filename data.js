@@ -32,7 +32,7 @@ export const skills =[
   alt: "Figma",
   title:"FIGMA",
   level:"Beginner",
-  description:"Able to create simple designs, wireframes, and prototypes with essential tools."
+  description:"Test 1Able to create simple designs, wireframes, and prototypes with essential tools."
 },
 
 {
